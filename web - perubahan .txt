@@ -1,5 +1,7 @@
 rencana perubahan diri
 mempelajari teknik percodingan
+*javascrip css
+*HTML
 mempelajari javascrip 
 mengikuti kelas percodingan
 mempelajari kali linux
