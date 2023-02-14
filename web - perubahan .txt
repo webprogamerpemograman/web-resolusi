@@ -2,8 +2,11 @@ rencana perubahan diri
 mempelajari teknik percodingan
 *javascrip css
 *HTML
+< Angular
+< React
 mempelajari javascrip 
 mengikuti kelas percodingan
+< Laravel
 mempelajari kali linux
 *etichal Hacking
 belajar dari kesalahan
