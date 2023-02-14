@@ -5,4 +5,5 @@ mempelajari teknik percodingan
 mempelajari javascrip 
 mengikuti kelas percodingan
 mempelajari kali linux
+*etichal Hacking
 belajar dari kesalahan
