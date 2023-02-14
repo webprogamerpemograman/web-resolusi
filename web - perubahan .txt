@@ -2,8 +2,10 @@ rencana perubahan diri
 mempelajari teknik percodingan
 *javascrip css
 *HTML
+> vue
 mempelajari javascrip 
 mengikuti kelas percodingan
 mempelajari kali linux
 *etichal Hacking
 belajar dari kesalahan
+-paython
