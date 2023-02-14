@@ -3,6 +3,7 @@ mempelajari teknik percodingan
 *javascrip css
 *HTML
 > vue
+> css
 mempelajari javascrip 
 mengikuti kelas percodingan
 mempelajari kali linux
